@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Jesse!
+- 👀 I'm just trying to make an impact!
+- 🌱 I’m currently trying to find ways to improve healthcare with both digital and physical solutions. Most of my projects are with my startup and research so you won't be able to see too many code samples (for now) :(
+- 💞️ Feel free to reach out if you need any help with a project! 
+- 📫 You can reach me at jessefphipps@tamu.edu
